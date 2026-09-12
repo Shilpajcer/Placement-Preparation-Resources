@@ -37,14 +37,14 @@ print(largest)
 Time Complexity: O(n)
 Space Complexity: O(1)
 
-2️⃣ Find the Smallest Element
-Problem
+## 2️⃣ Find the Smallest Element
+###Problem
 
 Given an array of integers, find the smallest element.
 
 Example
 
-Input:
+**Input:**
 
 [10, 25, 7, 42, 18]
 
@@ -69,14 +69,14 @@ print(smallest)
 Time Complexity: O(n)
 Space Complexity: O(1)
 
-3️⃣ Find the Sum of Array Elements
-Problem
+## 3️⃣ Find the Sum of Array Elements
+###Problem
 
 Find the sum of all elements in an array.
 
 Example
 
-Input:
+**Input:**
 
 [1, 2, 3, 4, 5]
 
@@ -100,14 +100,14 @@ print(total)
 Time Complexity: O(n)
 Space Complexity: O(1)
 
-4️⃣ Count Even Numbers
-Problem
+## 4️⃣ Count Even Numbers
+###Problem
 
 Count the number of even elements in an array.
 
 Example
 
-Input:
+**Input:**
 
 [1, 2, 4, 7, 8, 9]
 
@@ -133,14 +133,14 @@ print(count)
 Time Complexity: O(n)
 Space Complexity: O(1)
 
-5️⃣ Reverse an Array
-Problem
+## 5️⃣ Reverse an Array
+###Problem
 
 Reverse the elements of an array.
 
 Example
 
-Input:
+**Input:**
 
 [1, 2, 3, 4, 5]
 
