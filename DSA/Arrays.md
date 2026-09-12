@@ -8,22 +8,31 @@ This section contains basic array problems with explanations, examples, and Pyth
 
 ## 1️⃣ Find the Largest Element
 
-### Problem
+### 📝 Problem
+
 Given an array of integers, find the largest element.
 
-### Example
+### 📌 Example
 
 **Input:**
 ```text
 [10, 25, 7, 42, 18]
-Output:
+```
 
+**Output:**
+```text
 42
-Approach
-Assume the first element is the largest.
-Compare it with every other element.
-If a larger element is found, update the largest value.
-Python Solution
+```
+
+### 💡 Approach
+
+1. Assume the first element is the largest.
+2. Compare it with every other element.
+3. If a larger element is found, update the largest value.
+
+### 💻 Python Solution
+
+```python
 arr = [10, 25, 7, 42, 18]
 
 largest = arr[0]
@@ -33,29 +42,40 @@ for num in arr:
         largest = num
 
 print(largest)
+```
 
-Time Complexity: O(n)
-Space Complexity: O(1)
+**Time Complexity:** `O(n)`  
+**Space Complexity:** `O(1)`
+
+---
 
 ## 2️⃣ Find the Smallest Element
-###Problem
+
+### 📝 Problem
 
 Given an array of integers, find the smallest element.
 
-Example
+### 📌 Example
 
 **Input:**
-
+```text
 [10, 25, 7, 42, 18]
+```
 
-Output:
-
+**Output:**
+```text
 7
-Approach
-Assume the first element is the smallest.
-Compare it with every other element.
-Update the value whenever a smaller element is found.
-Python Solution
+```
+
+### 💡 Approach
+
+1. Assume the first element is the smallest.
+2. Compare it with every other element.
+3. Update the value whenever a smaller element is found.
+
+### 💻 Python Solution
+
+```python
 arr = [10, 25, 7, 42, 18]
 
 smallest = arr[0]
@@ -65,29 +85,38 @@ for num in arr:
         smallest = num
 
 print(smallest)
+```
 
-Time Complexity: O(n)
-Space Complexity: O(1)
+**Time Complexity:** `O(n)`  
+**Space Complexity:** `O(1)`
+
+---
 
 ## 3️⃣ Find the Sum of Array Elements
-###Problem
+
+### 📝 Problem
 
 Find the sum of all elements in an array.
 
-Example
+### 📌 Example
 
 **Input:**
-
+```text
 [1, 2, 3, 4, 5]
+```
 
-Output:
-
+**Output:**
+```text
 15
-Approach
+```
 
-Start with 0 and add each element to the total.
+### 💡 Approach
 
-Python Solution
+Start with `0` and add each element to the total.
+
+### 💻 Python Solution
+
+```python
 arr = [1, 2, 3, 4, 5]
 
 total = 0
@@ -96,30 +125,42 @@ for num in arr:
     total += num
 
 print(total)
+```
 
-Time Complexity: O(n)
-Space Complexity: O(1)
+**Time Complexity:** `O(n)`  
+**Space Complexity:** `O(1)`
+
+---
 
 ## 4️⃣ Count Even Numbers
-###Problem
+
+### 📝 Problem
 
 Count the number of even elements in an array.
 
-Example
+### 📌 Example
 
 **Input:**
-
+```text
 [1, 2, 4, 7, 8, 9]
+```
 
-Output:
-
+**Output:**
+```text
 3
-Approach
+```
 
-An even number is divisible by 2.
+### 💡 Approach
 
+An even number is divisible by `2`.
+
+```python
 num % 2 == 0
-Python Solution
+```
+
+### 💻 Python Solution
+
+```python
 arr = [1, 2, 4, 7, 8, 9]
 
 count = 0
@@ -129,30 +170,61 @@ for num in arr:
         count += 1
 
 print(count)
+```
 
-Time Complexity: O(n)
-Space Complexity: O(1)
+**Time Complexity:** `O(n)`  
+**Space Complexity:** `O(1)`
+
+---
 
 ## 5️⃣ Reverse an Array
-###Problem
+
+### 📝 Problem
 
 Reverse the elements of an array.
 
-Example
+### 📌 Example
 
 **Input:**
-
+```text
 [1, 2, 3, 4, 5]
+```
 
-Output:
-
+**Output:**
+```text
 [5, 4, 3, 2, 1]
-Python Solution
+```
+
+### 💡 Approach
+
+Use Python's `reverse()` method to reverse the array.
+
+### 💻 Python Solution
+
+```python
 arr = [1, 2, 3, 4, 5]
 
 arr.reverse()
 
 print(arr)
+```
 
-Time Complexity: O(n)
-Space Complexity: O(1)
+**Time Complexity:** `O(n)`  
+**Space Complexity:** `O(1)`
+
+---
+
+## 📚 More Problems to Practice
+
+- Find the second largest element
+- Remove duplicates from an array
+- Find the frequency of each element
+- Find the missing number
+- Move all zeros to the end
+- Find duplicate elements
+- Find the sum of positive and negative numbers
+- Find the maximum difference between two elements
+
+---
+
+⭐ More DSA problems will be added as I continue my placement preparation.
