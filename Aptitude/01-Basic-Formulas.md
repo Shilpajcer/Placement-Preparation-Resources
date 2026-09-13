@@ -433,4 +433,8 @@ Used when mixing two items to obtain a desired average price/value.
 
 ---
 
-⭐ **Tip:** Learn the formulas first, then practice topic-wise questions.
+## 🎯 Placement Tip
+
+- Learn formulas before solving questions.
+- Practice easy questions first.
+- Focus on speed and accuracy.
