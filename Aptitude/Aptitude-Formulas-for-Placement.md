@@ -6,7 +6,7 @@ A quick formula sheet for placement aptitude preparation.
 
 ## 1️⃣ Number System
 
-### Basic Formulas
+### Basic Formulas for numbers
 - Even number → divisible by 2
 - Odd number → not divisible by 2
 - Prime number → exactly 2 factors: 1 and itself
