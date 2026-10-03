@@ -15,6 +15,7 @@ This repository contains important concepts, formulas, practice questions, and p
 | 🗄️ SQL | Queries, Joins, Subqueries, Practice |
 | 🧠 CS Fundamentals | OOP, DBMS, OS, Computer Networks |
 | 🏢 Company-Wise | Placement patterns & preparation |
+|🐍 Programming | Python Language |
 
 ---
 
