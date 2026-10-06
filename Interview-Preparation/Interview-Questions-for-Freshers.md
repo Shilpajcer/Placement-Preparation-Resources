@@ -28,6 +28,7 @@ Example:
 
     age = 21
     name = "Shilpa"
+    class="b"
 
 ### Q4. What are common Python data types?
 
