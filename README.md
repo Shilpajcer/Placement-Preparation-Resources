@@ -408,26 +408,6 @@ Use this checklist to track your preparation.
 
 ---
 
-# 💡 Important Advice
-
-### Don't try to learn everything at once.
-
-Focus on:
-
-**Programming → DSA → SQL → CS Fundamentals → Projects → Interviews**
-
-Consistency is more important than studying for many hours once and then stopping.
-
-### Remember:
-
-> **Learn → Practice → Build → Revise → Interview → Improve 🚀**
-
 ---
-
-## ⭐ For Students
-
-This repository is created as a simple collection of placement preparation resources for students and freshers.
-
-If you find something useful or have suggestions for improving the resources, feel free to contribute or share feedback.
 
 **Keep learning and keep building! 🚀**
